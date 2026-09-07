@@ -1,2 +1,1 @@
-# IoTangle
-IoT for the Tangle
+#genergy
